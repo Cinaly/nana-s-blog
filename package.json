@@ -14,7 +14,7 @@
     "body-parser": "^1.18.3",
     "element-ui": "^2.5.4",
     "express": "^4.16.4",
-    "marked": "^0.6.1",
+    "marked": "^0.7.0",
     "mavon-editor": "^2.7.3",
     "mysql": "^2.16.0",
     "node-sass": "^4.11.0",
